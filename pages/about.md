@@ -1,36 +1,17 @@
 ---
 layout: page
-title: What is Wax?
+title: Dorm Doors at IU
 permalink: /about/
 ---
 
-**Wax helps you create digital exhibits.**   
-A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
+Our project focuses on the subject of dorm doors, specifically why students decide to decorate their dorm doors. We took pictures of different dorm door decorations we found around IU and interviewed some of the students whose doors were included. There were many different reasons for why a student decided to decorate their doors- some wanted to decorate to celebrate a specific holiday (i.e. hearts for Valentine’s Day) while others wanted to use it as a way to connect with people on their floor. Dorm door decorations give students a blank canvas to express and introduce themselves to a whole floor of people they may have never met before. For some, the way their dorm door is decorated may be a way for them to be recognized by others on their floor or even be an opportunity for conversation with someone new. Dorm door decorations attract the attention of everyone on the floor because these are decorations they walk past everyday when you walk down the halls.  Dorm doors have become an interesting topic of conversation that we wanted to explore more in our project. 
 
-**Wax is an extensible workflow based on minimal computing principles.**  
-Wax is hyper-aware of differences in resources, control and access around the world and close to home. As a result, it is purposefully lightweight: a few Ruby gems, some customizable UI components, good documentation and (hopefully soon!) recipes for creating, deploying, and maintaining custom digital exhibitions.
+From the data collected, we found that the majority of people we observed decorated their doors with message boards and/or images. This shows that people use their dorm doors to show their interests with different images and connect with the community by writing on their message boards different surveys or updates on their life. Passersby can interact with doors by responding to surveys or writing their own messages for the door owner. We found through our interviews that students generally received the same message that the door owners were trying to send. 
 
-**The exhibition sites created by Wax are static.**  
-This means they consist of flat HTML, CSS, and JavaScript files that don't need to communicate in a complex way back to a server. This makes them cheaper, safer, and generally easier to maintain.
+
 
 **The skills needed to create Wax sites are agnostic.**  
 This means they are largely transferable for use in other digital projects. 'Learning Wax' does not mean learning how to use a platform. It involves learning the fundamentals of web development, data management, and [plain text editing](https://zapier.com/blog/beginner-ultimate-guide-markdown/) while leveraging a few great open source libraries and frameworks along the way.
-
-**Wax keeps the collection presentation separate from the collection data.**  
-The Wax workflow starts with making standardized image files and metadata records and builds around them, handling canonical information, scholarly content, and site styling differently and deliberately. This makes it easier for you or others to share, reuse and reimagine your collection data in other contexts.
-
-## Who is Wax for?
-
-Wax was created for individuals and groups who either don't have or don't want to use a lot of resources to create their scholarly or cultural exhibits. It's best suited for folks who are willing to take on some technical responsibility in exchange for a lot of flexibility.
-
-For beginners, Wax has a relatively high, but general-purpose learning curve. To get the most out of Wax, you should have some familiarity with:
-
-- Using an interactive shell (e.g., Bash/Terminal) to install and interact with programs, files, and directories on your local computer.
-- Using Git and GitHub to version control and collaborate on projects.
-- Using Jekyll to generate static sites.
-- Creating and normalizing data files (e.g., CSV, JSON, YAML)
-- Using file-naming conventions and best practices.
-- Editing HTML, CSS, and some JavaScript.
 
 **However, Wax is also great for teaching or learning the skills above!** For examples of digital pedagogy via the creation of Wax exhibitions, check out [this workshop](https://studentcouncil.college.columbia.edu/events/introduction-minimal-computing-humanities-building-exhibit-primary-sources-using-wax), [this GitHub repository](https://github.com/stylerevolution/stylerevolution.github.io), and [this custom Wax site](https://stylerevolution.github.io/).
 
