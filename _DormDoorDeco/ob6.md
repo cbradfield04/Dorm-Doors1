@@ -11,7 +11,7 @@ quotes: '"I picked out a bunch of characters that remind me of myself and that I
 order: '05'
 layout: DormDoorDeco_item
 collection: DormDoorDeco
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/obj6/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj6/manifest.json"
 ---
