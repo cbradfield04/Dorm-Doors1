@@ -12,4 +12,4 @@ We welcome and encourage contributors and maintainers. Please get in touch, or [
 
 For more on working with Wax, visit our [documentation wiki](https://minicomp.github.io/wiki/wax/).
 
-For visiting the repostitory itself visit the link https://github.com/cbradfield04/DormDoorDeco
+For visiting the repostitory itself visit the [here](https://github.com/cbradfield04/DormDoorDeco).
