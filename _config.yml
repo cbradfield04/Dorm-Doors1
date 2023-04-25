@@ -113,7 +113,7 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Communication And Messageboards'
+      - label: 'Communication and Messageboards'
         link: '/exhibits/a/'
   - label: 'Browse'
     link: '/collection/'
