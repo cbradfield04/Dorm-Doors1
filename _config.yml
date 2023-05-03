@@ -115,6 +115,8 @@ menu:
     sub:
       - label: 'Communication and Messageboards'
         link: '/exhibits/a/'
+      - label: 'Our Collaboration'
+        link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
