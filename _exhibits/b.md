@@ -1,6 +1,12 @@
-Collaboration Memo
+---
+layout: exhibit
+title: 'Our Collaboration'
+author: Allison Myers
+publish_date: 2023-04-27
+permalink: /exhibits/b/
+---
 
-Writer: Allison Myers
+Collaboration Memo
 
 Group Members: Cole Bradfield and Zoë Wilson and Allison Myers
 
